@@ -45,7 +45,11 @@
 
 <details>
 <summary> <td>$${\color{#FFFFFF}\verb|VIDEO GAMES|}$$</td></summary>
+  <hr>
 <a href="https://store.steampowered.com/app/232770/POSTAL/"><img src="https://64.media.tumblr.com/9371e0f6a90a07094d463d5118b24141/d02b2c8733e9f7dd-61/s250x400/199b993a94567a5904473c5ca02c1cf442c5a864.gifv" width="115" align="left" alt="postal" title="Postal 1997"></a> <table> 
 
- awdbaidbwa
+Postal is a 1997 isometric top-down shooter video game developed by Running with Scissors and published by Ripcord Games. Playing as the Postal Dude after getting evicted from your home, the Dude has a series of delusions leading him to believe the United States Air Force is putting chemicals in the air to make a plague infecting the civilians in Paradise, Arizona. His goal is to kill all the 'hostiles' inside each area of the map, but has the option to kill civilians too. No spoilers here, folks!! Go play postal for the conclusion!
+<br>
+<b><i>Completed:</b></i> yes ♰ <b><i>Rating:</b></i> 5/5 (bias) ♰ <b><i>100%?:</b></i> almost... ♰ 18/27 achievements ♰
+<hr>
 
