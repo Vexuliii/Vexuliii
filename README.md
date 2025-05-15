@@ -1,3 +1,10 @@
+<div align="center">
+<table>
+<tr>
+  <td>$${\color{#FFFFFF}\verb|LAST UPDATED: 12/31/24|}$$</td>
+</tr>
+</table>
+
 ![](https://64.media.tumblr.com/549f3609cec3c5d0f069f653af3a148e/6869b527f3370e87-38/s2048x3072/ceec0c035a21a99f8fcb7cb76c47ec18872727a5.pnj)
 
 <hr>
