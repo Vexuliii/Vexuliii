@@ -50,8 +50,14 @@
 </details>
 
 <details><summary> <td>$${\color{#FFFFFF}\verb|CHANGELOG|}$$</td></summary>
+  <b><i>2025</i></b> <br><br>
  ♰ added changelogs - 5/15 <br>
- ♰ added webgraphics details
+ ♰ added webgraphics details - 5/15<br>
+ ♰ fixed divider issues in changelogs - 5/15<br>
+ ♰ added year date to changelogs - 5/15<br>
+ ♰ added music logs - 5/15<br> 
+  <hr>
+
   </details>
 
   
@@ -79,8 +85,22 @@ Postal is a 1997 top-down shooter video game developed by Running with Scissors 
 Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008. Not much to describe about l4d since everyone knows it,, but i looove playing as Ellis and Bill. My favorite weapon to use is the SG-552 along with the uzi! I think my favorite maps have to be Dark Carnival and Dead Center just because of the end maps... I also go nuts over the special infected designs, and I looove Smokers sm...
 <br>
 <b><i>Completed:</b></i> yes ♰ <b><i>Rating:</b></i> 4/5 ♰ <b><i>100%?:</b></i> No ♰ 27/101 achievements ♰
+<hr>
+
 
 </details>
 
-<details><summary> <td>$${\color{#FFFFFF}\verb|STAMPS, BLINKIES, BUTTONS GALORE!|}$$</td></summary></details>
+<details><summary> <td>$${\color{#FFFFFF}\verb|STAMPS, BLINKIES, BUTTONS GALORE!|}$$</td></summary>
+<hr>
+
+
+</details>
+
+</details>
+
+<details><summary> <td>$${\color{#FFFFFF}\verb|MUSIC JAMS|}$$</td></summary>
+<hr>
+
+
+</details>
 <hr>
