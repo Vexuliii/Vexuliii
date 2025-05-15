@@ -38,9 +38,10 @@
 <a href="https://open.spotify.com/track/1R2S07B6YqebXf3SbDK0dR?si=0229893360bd4bd5"><img src="https://64.media.tumblr.com/68059f2098b872f88310da2878c2db38/27c7f397606aef4d-d1/s400x600/6c04ff3528ebf671ca951983e468cb6da8b8e669.pnj" width="10%" height="10%" align="left" alt="LASTFM" title="1937 Statepark - Car Seat Headrest"></a>
 
 
-<img src="https://64.media.tumblr.com/f1d2ddf8c02a573531daa29cbb134720/448de2f235b8fcbe-70/s500x750/b40b73a25b67d08b5cec03cc0af7de6e586a5c75.pnj" align="left" alt="LASTFM" title="Hey, thats some good tunes!"></a>
+<img src="https://64.media.tumblr.com/f1d2ddf8c02a573531daa29cbb134720/448de2f235b8fcbe-70/s500x750/b40b73a25b67d08b5cec03cc0af7de6e586a5c75.pnj" align="left" alt="Pdude" title="Art by SKELTRR"></a>
 
+![](https://64.media.tumblr.com/4a23c70ce509cb5a9f49076404080dc4/bcacc40a1d590621-1b/s250x400/059849980656eaf47f0f3252844c94a5b6ec0cf7.gifv)
 <hr>
 
 <details>
-<summary> <td>$${\color{#FFFFFF}\verb|BLINKIES/STAMPS/BUTTONS|}$$</td></summary>
+<summary> <td>$${\color{#FFFFFF}\verb|VIDEO GAMES|}$$</td></summary>
