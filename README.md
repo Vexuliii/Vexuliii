@@ -8,13 +8,18 @@
 
 ![](https://64.media.tumblr.com/549f3609cec3c5d0f069f653af3a148e/6869b527f3370e87-38/s2048x3072/ceec0c035a21a99f8fcb7cb76c47ec18872727a5.pnj)
 
+<a href="https://vexulii.atabook.org/"><img src="https://64.media.tumblr.com/07ca6df46127e58ffbcc297bc0641ce4/f75810b6a46a81bc-d3/s100x200/a184a4146e27480a8897f1a55a0fd12194dacd03.pnj" align="center" alt="ata" title="ATABOOK"></a>
+<a href="https://vexgrave.ju.mp/"><img src="https://64.media.tumblr.com/5ee9de85af23a4b60da67f35b5a4b1dd/f75810b6a46a81bc-29/s100x200/2632e1aa7d9d83e1d4507c50de96251e3b853f78.pnj" align="center" alt="carrd" title="CARRD"></a>
+<a href="https://vexulii.straw.page/gonepostal"><img src="https://64.media.tumblr.com/1ddea90f8cc66a8e701627b44fd233d1/f75810b6a46a81bc-c7/s100x200/7223ea453f7513187750d1b9503d463b818d78d4.pnj" align="center" alt="strawp" title="STRAWPAGE"></a>
+<a href="https://en.pronouns.page/@vexulii#google_vignette"><img src="https://64.media.tumblr.com/43685abb7af867573d2fd6ddc492fed2/f75810b6a46a81bc-70/s100x200/d4b43384c97b00511d93db426f0b965b106a1759.pnj" align="center" alt="prnp" title="PRONOUNS PAGE"></a>
+
 <hr>
 <img src="https://64.media.tumblr.com/4911cc8881c4b3919135f070714ba0a1/581d3029efd2f724-d2/s500x750/29cf54084d51db51a5f4912ddbb145fd03469b0e.pnj" width="40%" height="50%" align="right" alt="Simon" title="Art by SKELTRR">
 
  <img src="https://komarev.com/ghpvc/?username=vexuliii&color=780F0F&amp;label=Monsters+Killed:" align="center" alt="view count" title="I see youuu"></a>
 
 
-<p align="left"> <kbd>$\color{#b0b0b0}{\textsf{I'M NOT A TCC/ZERO DAY FAN, FUCK OFF!!!}}$<br><br>$\color{#fc0303}{\textsf{Hello, I'm GRAVE / VEX! This ReadMe is to get to know me better!}}$<br>$\color{#fc0303}{\textsf{If you know me, you know POSTAL is my favorite game of ALL time and i love Postal 4 the most!}}$<br><br>♰<br><br>$\color{#b0b0b0}{\textsf{CURRENTLY:}}$<br><i><b>Playing:</i></b> $\color{#c70202}{\textsf{DOOM: The Dark Ages}}$ Completion = 0%<br><b><i>Listening to:</i></b> $\color{#c70202}{\textsf{That Handsome Devil, Lifelover, Alex G}}$<br><b><i>Watching:</i></b> $\color{#c70202}{\textsf{House MD, Arcane s2}}$ <br><br>♰<br><br><b><i>NAME:</i></b> $\color{#c70202}{\textsf{Grave , Vex ; + character names}}$ <br><b><i>GENDER:</i></b> $\color{#c70202}{\textsf{Female (any pronouns + he/him)}}$ <br><b><i>BIRTHDAY:</i></b> $\color{#c70202}{\textsf{May 8th}}$ <br><b><i>STATUS:</i></b> $\color{#c70202}{\textsf{Lesbian + Taken <3}}$ <br> $\color{#b0b0b0}{\textsf{DID, AuDHD, ANXIETY + MORE ; tone tags appreciative!}}$&nbsp;</kbd> 
+<p align="left"> <kbd>$\color{#b0b0b0}{\textsf{I'M NOT A TCC/ZERO DAY FAN, FUCK OFF!!!}}$<br><br>$\color{#fc0303}{\textsf{Hello, I'm GRAVE / VEX! This ReadMe is to get to know me better!}}$<br>$\color{#fc0303}{\textsf{If you know me, you know POSTAL is my favorite game of ALL time and i love Postal 4 the most!}}$<br>$\color{#fc0303}{\textsf{My DNI and INT are in my Carrd! Please read that before this!}}$<br><br>♰<br><br>$\color{#b0b0b0}{\textsf{CURRENTLY:}}$<br><i><b>Playing:</i></b> $\color{#c70202}{\textsf{DOOM: The Dark Ages}}$ Completion = 0%<br><b><i>Listening to:</i></b> $\color{#c70202}{\textsf{That Handsome Devil, Lifelover, Alex G}}$<br><b><i>Watching:</i></b> $\color{#c70202}{\textsf{House MD, Arcane s2}}$ <br><br>♰<br><br><b><i>NAME:</i></b> $\color{#c70202}{\textsf{Grave , Vex ; + character names}}$ <br><b><i>GENDER:</i></b> $\color{#c70202}{\textsf{Female (any pronouns + he/him)}}$ <br><b><i>BIRTHDAY:</i></b> $\color{#c70202}{\textsf{May 8th}}$ <br><b><i>STATUS:</i></b> $\color{#c70202}{\textsf{Lesbian + Taken <3}}$ <br> $\color{#b0b0b0}{\textsf{DID, AuDHD, ANXIETY + MORE ; tone tags appreciative!}}$&nbsp;</kbd> 
 
 <hr> 
 
