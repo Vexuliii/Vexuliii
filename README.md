@@ -1,3 +1,4 @@
+
 <div align="center">
 <table>
 <tr>
@@ -27,14 +28,17 @@
   <td>$${\color{#FFFFFF}\verb|FAVORITES!|}$$</td>
 </tr>
 </table>
-<a href="https://open.spotify.com/track/57CsspUUBt5A65WRgywR7f?si=dcfabf75d2744ff1"><img src="https://64.media.tumblr.com/6aba530459a41cd9b617a6fd5a8ed418/27c7f397606aef4d-69/s540x810/b133da597212dcbadc6ef5dc5a096c70893685d9.pnj" width="10%" height="10%" align="right" alt="LASTFM" title="Gone Postal - A Fall To Break"></a>
-<a href="https://open.spotify.com/track/05NpeTQWnzXS1d8ZqL4YFZ?si=4fdb62036198419f"><img src="https://64.media.tumblr.com/6c8f2f5032596426737a5e9e5c994147/27c7f397606aef4d-aa/s400x600/e43653579d54e975c84ce6f7365a948698951242.pnj" width="10%" height="10%" align="right" alt="LASTFM" title="Twisted Transistor - Korn"></a>
-<a href="https://open.spotify.com/track/3faORyOXd3nhvEAXzleLDb?si=6ea637414dd84591"><img src="https://64.media.tumblr.com/1032d2ff68e947693a4ddedca7bf5d92/27c7f397606aef4d-93/s400x600/440fdd49d079d786a25bb5a8069433db3f4cf25c.pnj" width="10%" height="10%" align="right" alt="LASTFM" title="Lifelover - En Man I Sina Sämsta År"></a>
-<a href="https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ?si=a5fb5dd3eee248e4"><img src="https://64.media.tumblr.com/f0c4a57f7239c3d67766fa2cb92a7a83/27c7f397606aef4d-23/s400x600/a693a438d4de9124be13a1943fac93fe3a347ac7.pnj" width="10%" height="10%" align="right" alt="LASTFM" title="D.A.N.C.E - Justice"></a>
-<a href="https://open.spotify.com/track/1R2S07B6YqebXf3SbDK0dR?si=0229893360bd4bd5"><img src="https://64.media.tumblr.com/68059f2098b872f88310da2878c2db38/27c7f397606aef4d-d1/s400x600/6c04ff3528ebf671ca951983e468cb6da8b8e669.pnj" width="10%" height="10%" align="right" alt="LASTFM" title="1937 Statepark - Car Seat Headrest"></a>
-<a href="https://open.spotify.com/track/3vhLQ8fDqXsS6EmereNOoI?si=5ab5500117a34f3c"><img src="https://64.media.tumblr.com/c177e83caae3f0a38ea2a4d14cbe3509/27c7f397606aef4d-65/s400x600/04a0dbd61144edb27d102fc321d9265c7c949c88.pnj" width="10%" height="10%" align="right" alt="LASTFM" title="Gone Postal - A Fall To Break"></a>
+
+<!---IM SO CONFUSED SOMEONE SAVE ME-->
+
+<a href="https://open.spotify.com/track/57CsspUUBt5A65WRgywR7f?si=dcfabf75d2744ff1"><img src="https://64.media.tumblr.com/6aba530459a41cd9b617a6fd5a8ed418/27c7f397606aef4d-69/s540x810/b133da597212dcbadc6ef5dc5a096c70893685d9.pnj" width="10%" height="10%" align="left" alt="LASTFM" title="Gone Postal - A Fall To Break"></a>
+<a href="https://open.spotify.com/track/05NpeTQWnzXS1d8ZqL4YFZ?si=4fdb62036198419f"><img src="https://64.media.tumblr.com/6c8f2f5032596426737a5e9e5c994147/27c7f397606aef4d-aa/s400x600/e43653579d54e975c84ce6f7365a948698951242.pnj" width="10%" height="10%" align="left" alt="LASTFM" title="Twisted Transistor - Korn"></a>
+<a href="https://open.spotify.com/track/3faORyOXd3nhvEAXzleLDb?si=6ea637414dd84591"><img src="https://64.media.tumblr.com/1032d2ff68e947693a4ddedca7bf5d92/27c7f397606aef4d-93/s400x600/440fdd49d079d786a25bb5a8069433db3f4cf25c.pnj" width="10%" height="10%" align="left" alt="LASTFM" title="Lifelover - En Man I Sina Sämsta År"></a>
+<a href="https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ?si=a5fb5dd3eee248e4"><img src="https://64.media.tumblr.com/f0c4a57f7239c3d67766fa2cb92a7a83/27c7f397606aef4d-23/s400x600/a693a438d4de9124be13a1943fac93fe3a347ac7.pnj" width="10%" height="10%" align="left" alt="LASTFM" title="D.A.N.C.E - Justice"></a>
+<a href="https://open.spotify.com/track/1R2S07B6YqebXf3SbDK0dR?si=0229893360bd4bd5"><img src="https://64.media.tumblr.com/68059f2098b872f88310da2878c2db38/27c7f397606aef4d-d1/s400x600/6c04ff3528ebf671ca951983e468cb6da8b8e669.pnj" width="10%" height="10%" align="left" alt="LASTFM" title="1937 Statepark - Car Seat Headrest"></a>
+
+
+<img src="https://64.media.tumblr.com/f1d2ddf8c02a573531daa29cbb134720/448de2f235b8fcbe-70/s500x750/b40b73a25b67d08b5cec03cc0af7de6e586a5c75.pnj" align="left" alt="LASTFM" title="Hey, thats some good tunes!"></a>
 
 
 
-
- 
