@@ -60,10 +60,12 @@ Postal is a 1997 top-down shooter video game developed by Running with Scissors 
 <hr>
 
 
+
 <a href="https://store.steampowered.com/app/550/Left_4_Dead_2/"><img src="https://64.media.tumblr.com/1baa26b86f75e2dc64ed29f1d0eb8801/d02b2c8733e9f7dd-ed/s250x400/d43a9e58ad9cb4670002813cabe5eea094cc7d2b.gifv" width="115" align="left" alt="l4d2" title="Left 4 Dead 2"></a>
 
-<div align="right">
+<div align="left">
 
 <br>
+Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008. Not much to describe about l4d since everyone knows it,, but i looove playing as Ellis and Bill. My favorite weapon to use is the SG-552 along with the uzi ^_^ DARK CARIVAL IS MY FAV MAP EVER
 <b><i>Completed:</b></i> yes ♰ <b><i>Rating:</b></i> 4/5 ♰ <b><i>100%?:</b></i> No ♰ 27/101 achievements ♰
-<hr>
+
