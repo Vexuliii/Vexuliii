@@ -41,4 +41,5 @@
 <img src="https://64.media.tumblr.com/f1d2ddf8c02a573531daa29cbb134720/448de2f235b8fcbe-70/s500x750/b40b73a25b67d08b5cec03cc0af7de6e586a5c75.pnj" align="left" alt="LASTFM" title="Hey, thats some good tunes!"></a>
 
 
-
+<details>
+<summary> <td>$${\color{#FFFFFF}\verb|BLINKIES/STAMPS/BUTTONS|}$$</td></summary>
