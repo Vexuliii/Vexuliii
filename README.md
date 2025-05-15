@@ -18,7 +18,7 @@
  <img src="https://komarev.com/ghpvc/?username=vexuliii&color=780F0F&amp;label=Monsters+Killed:" align="center" alt="view count" title="I see youuu"></a>
 
 
-<p align="left"> <kbd>$\color{#b0b0b0}{\textsf{I'M NOT A TCC/ZERO DAY FAN, FUCK OFF!!!}}$<br><br>$\color{#fc0303}{\textsf{Hello, I'm GRAVE / VEX! This ReadMe is to get to know me better!}}$<br>$\color{#fc0303}{\textsf{If you know me, you know POSTAL is my favorite game of ALL time and i love Postal 4 the most!}}$<br>$\color{#fc0303}{\textsf{My DNI and INT are in my Carrd! Please read that before this!}}$<br><br>♰<br><br>$\color{#b0b0b0}{\textsf{CURRENTLY:}}$<br><i><b>Playing:</i></b> $\color{#c70202}{\textsf{DOOM: The Dark Ages}}$ Completion = 0%<br><b><i>Listening to:</i></b> $\color{#c70202}{\textsf{That Handsome Devil, Lifelover, Alex G}}$<br><b><i>Watching:</i></b> $\color{#c70202}{\textsf{House MD, Arcane s2}}$ <br><br><b><i>NAME:</i></b> $\color{#c70202}{\textsf{Grave , Vex ; + character names}}$ <br><b><i>GENDER:</i></b> $\color{#c70202}{\textsf{Female (any pronouns + he/him)}}$ <br><b><i>BIRTHDAY:</i></b> $\color{#c70202}{\textsf{May 8th}}$ <br><b><i>STATUS:</i></b> $\color{#c70202}{\textsf{Lesbian + Taken <3}}$ <br> $\color{#b0b0b0}{\textsf{DID, AuDHD, ANXIETY + MORE ; tone tags appreciative!}}$&nbsp;</kbd> 
+<p align="left"> <kbd>$\color{#b0b0b0}{\textsf{I'M NOT A TCC/ZERO DAY FAN, FUCK OFF!!!}}$<br><br>$\color{#fc0303}{\textsf{Hello, I'm GRAVE / VEX! This ReadMe is to get to know me better!}}$<br>$\color{#fc0303}{\textsf{If you know me, you know POSTAL is my favorite game of ALL time and i love Postal 4 the most!}}$<br>$\color{#fc0303}{\textsf{My DNI and INT are in my Carrd! Please read that before this!}}$<br><br>♰<br><br>$\color{#b0b0b0}{\textsf{CURRENTLY:}}$<br><i><b>Playing:</i></b> $\color{#c70202}{\textsf{DOOM: The Dark Ages}}$ Completion = 4%<br><b><i>Listening to:</i></b> $\color{#c70202}{\textsf{That Handsome Devil, Lifelover, Alex G}}$<br><b><i>Watching:</i></b> $\color{#c70202}{\textsf{House MD, Arcane s2}}$ <br><br><b><i>NAME:</i></b> $\color{#c70202}{\textsf{Grave , Vex ; + character names}}$ <br><b><i>GENDER:</i></b> $\color{#c70202}{\textsf{Female (any pronouns + he/him)}}$ <br><b><i>BIRTHDAY:</i></b> $\color{#c70202}{\textsf{May 8th}}$ <br><b><i>STATUS:</i></b> $\color{#c70202}{\textsf{Lesbian + Taken <3}}$ <br> $\color{#b0b0b0}{\textsf{DID, AuDHD, ANXIETY + MORE ; tone tags appreciative!}}$&nbsp;</kbd> 
 
 <hr> 
 
@@ -66,6 +66,7 @@ Postal is a 1997 top-down shooter video game developed by Running with Scissors 
 <div align="left">
 
 <br>
-Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008. Not much to describe about l4d since everyone knows it,, but i looove playing as Ellis and Bill. My favorite weapon to use is the SG-552 along with the uzi ^_^ DARK CARIVAL IS MY FAV MAP EVER
+Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008. Not much to describe about l4d since everyone knows it,, but i looove playing as Ellis and Bill. My favorite weapon to use is the SG-552 along with the uzi! I think my favorite maps have to be Dark Carnival and Dead Center just because of the end maps... I also go nuts over the special infected designs, and I looove Smokers sm...
+<br>
 <b><i>Completed:</b></i> yes ♰ <b><i>Rating:</b></i> 4/5 ♰ <b><i>100%?:</b></i> No ♰ 27/101 achievements ♰
 
