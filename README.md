@@ -47,8 +47,18 @@
 ![](https://64.media.tumblr.com/2931c70dd11e6a170720fcd1bd1490f7/5657e6f916b52bef-7f/s250x400/9edc6bb85af6a9450286b51ddbad13faaad04cd0.gifv)
 <hr>
 
+</details>
+
+<details><summary> <td>$${\color{#FFFFFF}\verb|CHANGELOG|}$$</td></summary>
+ ♰ added changelogs - 5/15 <br>
+ ♰ added webgraphics details
+  </details>
+
+  
 <details>
-<summary> <td>$${\color{#FFFFFF}\verb|VIDEO GAMES|}$$</td></summary>
+<summary> <td>$${\color{#FFFFFF}\verb|VIDEO GAME LOGS|}$$</td></summary>
+
+ 
   <hr>
 <a href="https://store.steampowered.com/app/232770/POSTAL/"><img src="https://64.media.tumblr.com/9371e0f6a90a07094d463d5118b24141/d02b2c8733e9f7dd-61/s250x400/199b993a94567a5904473c5ca02c1cf442c5a864.gifv" width="115" align="left" alt="postal" title="Postal 1997"></a> 
 
@@ -70,3 +80,7 @@ Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated seq
 <br>
 <b><i>Completed:</b></i> yes ♰ <b><i>Rating:</b></i> 4/5 ♰ <b><i>100%?:</b></i> No ♰ 27/101 achievements ♰
 
+</details>
+
+<details><summary> <td>$${\color{#FFFFFF}\verb|STAMPS, BLINKIES, BUTTONS GALORE!|}$$</td></summary></details>
+<hr>
