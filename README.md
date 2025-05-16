@@ -58,6 +58,7 @@
  ♰ fixed divider issues in changelogs - 5/15<br>
  ♰ added year date to changelogs - 5/15<br>
  ♰ added music logs - 5/15<br> 
+ ♰ added media logs - 5/15<br>
   <hr>
 
   </details>
