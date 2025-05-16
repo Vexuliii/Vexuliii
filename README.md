@@ -53,12 +53,15 @@
 
 <details><summary> <td>$${\color{#FFFFFF}\verb|CHANGELOG|}$$</td></summary>
   <b><i>2025</i></b> <br><br>
- ♰ added changelogs - 5/15 <br>
- ♰ added webgraphics details - 5/15<br>
- ♰ fixed divider issues in changelogs - 5/15<br>
+  ♰ fixed backwards change longs - 5/15 <br>
+  ♰ added media logs - 5/15<br>
+   ♰ added music logs - 5/15<br> 
  ♰ added year date to changelogs - 5/15<br>
- ♰ added music logs - 5/15<br> 
- ♰ added media logs - 5/15<br>
+ ♰ fixed divider issues in changelogs - 5/15<br>
+ ♰ added webgraphics details - 5/15<br>
+ ♰ added changelogs - 5/15 <br>
+
+ 
   <hr>
 
   </details>
