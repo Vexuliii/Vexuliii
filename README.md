@@ -53,6 +53,7 @@
 
 <details><summary> <td>$${\color{#FFFFFF}\verb|CHANGELOG|}$$</td></summary>
   <b><i>2025</i></b> <br><br>
+  ♰ added doom punch - 5/15 <br>
   ♰ fixed backwards change longs - 5/15 <br>
   ♰ added media logs - 5/15<br>
    ♰ added music logs - 5/15<br> 
