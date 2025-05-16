@@ -55,6 +55,7 @@
 <details>
                                                             <summary> <td>$${\color{#FFFFFF}\verb|CHANGELOG|}$$</td></summary>
   <b><i>2025</i></b> <br><br>
+              ♰ fixed sub details in stamps and stuff - 5/16 <br>
               ♰ added warning to stamps and stuff - 5/15 <br>
               ♰ added sub details in stamps and stuff - 5/15 <br>
               ♰ removed doom punch... - 5/15 <br>
