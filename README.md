@@ -55,6 +55,8 @@
 <details>
                                                             <summary> <td>$${\color{#FFFFFF}\verb|CHANGELOG|}$$</td></summary>
   <b><i>2025</i></b> <br><br>
+  <div align="right">
+              ♰ fixed change log align - 5/16 <br>
               ♰ fixed sub details in stamps and stuff - 5/16 <br>
               ♰ added warning to stamps and stuff - 5/15 <br>
               ♰ added sub details in stamps and stuff - 5/15 <br>
