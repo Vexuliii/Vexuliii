@@ -54,6 +54,7 @@
 
 <details><summary> <td>$${\color{#FFFFFF}\verb|CHANGELOG|}$$</td></summary>
   <b><i>2025</i></b> <br><br>
+  ♰ added sub details in stamps and stuff - 5/15 <br>
   ♰ removed doom punch... - 5/15 <br>
   ♰ added doom punch - 5/15 <br>
   ♰ fixed backwards change longs - 5/15 <br>
@@ -99,8 +100,38 @@ Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated seq
 
 </details>
 
-<details><summary> <td>$${\color{#FFFFFF}\verb|STAMPS, BLINKIES, BUTTONS GALORE|}$$</td></summary>
-<hr>
+<details><summary> <td>$${\color{#FFFFFF}\verb|STAMPS, BLINKIES, BUTTONS, BOXES GALORE|}$$</td></summary>
+
+<br>
+
+  <details>
+    <summary> <td>$${\color{#FFFFFF}\verb|STAMPS|}$$</td></summary>
+  </details>
+
+  <details>
+    <summary> <td>$${\color{#FFFFFF}\verb|BLINKIES|}$$</td></summary>
+  </details>
+
+  <details>
+    <summary> <td>$${\color{#FFFFFF}\verb|BUTTONS|}$$</td></summary>
+  </details>
+
+  <details>
+    <summary> <td>$${\color{#FFFFFF}\verb|USERBOXES|}$$</td></summary>
+  </details>
+
+  <details>
+    <summary> <td>$${\color{#FFFFFF}\verb|PERSONAL GRAPHICS|}$$</td></summary>
+    ones that i relate to and whatnot
+  </details>
+
+<details>
+    <summary> <td>$${\color{#FFFFFF}\verb|STAMPS + BLINKIES I'VE MADE|}$$</td></summary>
+  brutally murder people with hatches and whatnot....
+  </details>
+
+ <hr>
+  </details>
 
 
 </details>
