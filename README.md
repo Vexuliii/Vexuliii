@@ -44,7 +44,6 @@
 
 <img src="https://64.media.tumblr.com/f1d2ddf8c02a573531daa29cbb134720/448de2f235b8fcbe-70/s500x750/b40b73a25b67d08b5cec03cc0af7de6e586a5c75.pnj" align="left" alt="Pdude" title="Art by SKELTRR"></a>
 
-![](https://64.media.tumblr.com/2931c70dd11e6a170720fcd1bd1490f7/5657e6f916b52bef-7f/s250x400/9edc6bb85af6a9450286b51ddbad13faaad04cd0.gifv)
 <hr>
 
 </details>
@@ -123,3 +122,4 @@ Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated seq
 
 <div>
   
+![](https://64.media.tumblr.com/2931c70dd11e6a170720fcd1bd1490f7/5657e6f916b52bef-7f/s250x400/9edc6bb85af6a9450286b51ddbad13faaad04cd0.gifv)
