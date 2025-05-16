@@ -109,7 +109,7 @@ Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated seq
     <br>
 
 <br>
-
+<div align="right">
   <details>
     <summary> <td>$${\color{#FFFFFF}\verb|STAMPS|}$$</td></summary>
   </details>
