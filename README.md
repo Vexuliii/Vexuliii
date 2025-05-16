@@ -49,6 +49,8 @@
 
 </details>
 
+<kbd>$\color{#fc0303}{\textsf{Wanna know more?}}$
+
 <details><summary> <td>$${\color{#FFFFFF}\verb|CHANGELOG|}$$</td></summary>
   <b><i>2025</i></b> <br><br>
  ♰ added changelogs - 5/15 <br>
@@ -90,7 +92,7 @@ Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated seq
 
 </details>
 
-<details><summary> <td>$${\color{#FFFFFF}\verb|STAMPS, BLINKIES, BUTTONS GALORE!|}$$</td></summary>
+<details><summary> <td>$${\color{#FFFFFF}\verb|STAMPS, BLINKIES, BUTTONS GALORE|}$$</td></summary>
 <hr>
 
 
@@ -99,6 +101,15 @@ Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated seq
 </details>
 
 <details><summary> <td>$${\color{#FFFFFF}\verb|MUSIC JAMS|}$$</td></summary>
+<hr>
+
+
+</details>
+
+
+</details>
+
+<details><summary> <td>$${\color{#FFFFFF}\verb|MEDIA MADNESS|}$$</td></summary>
 <hr>
 
 
