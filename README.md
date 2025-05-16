@@ -52,18 +52,20 @@
 
 <kbd>$\color{#fc0303}{\textsf{Wanna know more?}}$
 
-<details><summary> <td>$${\color{#FFFFFF}\verb|CHANGELOG|}$$</td></summary>
+<details>
+                                                            <summary> <td>$${\color{#FFFFFF}\verb|CHANGELOG|}$$</td></summary>
   <b><i>2025</i></b> <br><br>
-  ♰ added sub details in stamps and stuff - 5/15 <br>
-  ♰ removed doom punch... - 5/15 <br>
-  ♰ added doom punch - 5/15 <br>
-  ♰ fixed backwards change longs - 5/15 <br>
-  ♰ added media logs - 5/15<br>
-   ♰ added music logs - 5/15<br> 
- ♰ added year date to changelogs - 5/15<br>
- ♰ fixed divider issues in changelogs - 5/15<br>
- ♰ added webgraphics details - 5/15<br>
- ♰ added changelogs - 5/15 <br>
+              ♰ added warning to stamps and stuff - 5/15 <br>
+              ♰ added sub details in stamps and stuff - 5/15 <br>
+              ♰ removed doom punch... - 5/15 <br>
+              ♰ added doom punch - 5/15 <br>
+              ♰ fixed backwards change longs - 5/15 <br>
+              ♰ added media logs - 5/15<br>
+              ♰ added music logs - 5/15<br> 
+              ♰ added year date to changelogs - 5/15<br>
+              ♰ fixed divider issues in changelogs - 5/15<br>
+              ♰ added webgraphics details - 5/15<br>
+              ♰ added changelogs - 5/15 <br>
 
  
   <hr>
@@ -72,7 +74,7 @@
 
   
 <details>
-<summary> <td>$${\color{#FFFFFF}\verb|VIDEO GAME LOGS|}$$</td></summary>
+                                                      <summary> <td>$${\color{#FFFFFF}\verb|VIDEO GAME LOGS|}$$</td></summary>
 
  
   <hr>
@@ -100,7 +102,11 @@ Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated seq
 
 </details>
 
-<details><summary> <td>$${\color{#FFFFFF}\verb|STAMPS, BLINKIES, BUTTONS, BOXES GALORE|}$$</td></summary>
+  <details>
+                                              <summary> <td>$${\color{#FFFFFF}\verb|STAMPS, BLINKIES, BUTTONS, BOXES GALORE|}$$</td></summary>
+<br>
+    <kbd>$\color{#fc0303}{\textsf{WARNING! EYESTRAIN, FLASHING/FAST IMAGES!}}$</kbd>
+    <br>
 
 <br>
 
@@ -138,7 +144,8 @@ Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated seq
 
 </details>
 
-<details><summary> <td>$${\color{#FFFFFF}\verb|MUSIC JAMS|}$$</td></summary>
+<details>
+                                                        <summary> <td>$${\color{#FFFFFF}\verb|MUSIC JAMS|}$$</td></summary>
 <hr>
 
 
@@ -147,7 +154,8 @@ Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated seq
 
 </details>
 
-<details><summary> <td>$${\color{#FFFFFF}\verb|MEDIA MADNESS|}$$</td></summary>
+<details>
+                                                      <summary> <td>$${\color{#FFFFFF}\verb|MEDIA MADNESS|}$$</td></summary>
 <hr>
 
 
