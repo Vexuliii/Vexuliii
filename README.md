@@ -49,7 +49,10 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
 
    <br>
 
+<img src="https://64.media.tumblr.com/3fb8bf018683a21237c5c4aeb9420cf0/6071258c766ad8c0-f0/s250x400/a8e9a9daa53b5707726bab3e08686ebbd4249d72.gifv" width="40" alt="flower">
+
   <img align="center" src="https://drive.google.com/uc?id=1d4JW1L5O4slITQiPuViYi3hoa5WdEvD9" alt="otasune carry" height="90px" title="cannon events in mg1">
+  <img src="https://64.media.tumblr.com/3fb8bf018683a21237c5c4aeb9420cf0/6071258c766ad8c0-f0/s250x400/a8e9a9daa53b5707726bab3e08686ebbd4249d72.gifv" width="40" alt="flower">
          <br>  
              <br>
   <img align="center" src="https://drive.google.com/uc?id=1KaL6GjoN2gAKa0xPLdFVP33aZgy5sQva" alt="otasune sleep" height="150px" title="He's an otaku">
