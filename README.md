@@ -1537,6 +1537,10 @@ Feel free to use any of these! Credit not required !
 ![larry fall](https://64.media.tumblr.com/6d8231dc8155c4e336d9c0310494dc1b/5170b6de5d10d853-8f/s100x200/bec2f65f50998d042ff5db3e8d67a7f1e265d014.gifv)
 ![grunk spin](https://64.media.tumblr.com/001599a241f9da8df3d435dc631caf34/68cbda47fa9982cc-78/s100x200/7d7d5e8d651f3d2b9a4289f844672cd8cd0d6e4e.gifv)
 ![grunk cheer](https://64.media.tumblr.com/5d38a8e83b3443056a4937508fec46ec/68cbda47fa9982cc-b4/s100x200/a3d4f37eae65f5c0d1dd90435ae03fe3ea87a333.gifv)
+<img src="https://drive.google.com/uc?id=1V7zrsAeAYkJlLIl02Aslh0orcrsevmqD" title="Rick Star Fan" alt="rick" width=100px/>
+<img src="https://drive.google.com/uc?id=1ucaLParC3C1Sdo566qaSyy18r7uFuEi-" title="Rick Slide" alt="rick slide" width=100px/>
+<img src="https://drive.google.com/uc?id=1j3cdmdf4gRmEhEYuW9yLNJk0RITIpLyB" title="Rick aoourggh" alt="rick man" width=100px/>
+<img src="https://drive.google.com/uc?id=1p7gk9hAO-0Q6t_kWrat2s-EwynQPjXk9" title="Rick stare" alt="rick stare" width=100px/>
 </detials>
 </details>
 
