@@ -18,8 +18,17 @@
 
 </!-->
 
+
+
+
+
 <div align="center">
 
+
+
+<img src="https://64.media.tumblr.com/b5b9f29ab862b00173ae18cf44bc0402/f57f2bb133764714-9d/s1280x1920/c8ca30b00ded19e4bd33dc503b22c6c174eafddd.pnj" alt="tomod otasune" width="350" title="this isn't staying for long COUHGS">
+
+celebratory img for otasune being real in tomodachi life 
 
 <img src="https://typingsvg.vercel.app/api/svg?width=800&height=50&backgroundOpacity=0&border=false&cursorStyle=block&lines=%5B%7B%22text%22%3A%22Do+you+think+love+can+bloom...+even+on+a+battlefield%3F%22%2C%22font%22%3A%22Tiny5%22%2C%22color%22%3A%22%23feb4ea%22%2C%22typingSpeed%22%3A0.06666666666666667%2C%22deleteSpeed%22%3A0.0333555703802535%7D%2C%7B%22text%22%3A%22...Yeah.+I+do.%22%2C%22font%22%3A%22Tiny5%22%2C%22color%22%3A%22%23747bd2%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%5D" alt="Typing SVG" title="Do you think love can bloom... even on a battlefield? ...Yeah. I do." width=450px/></a>
 
