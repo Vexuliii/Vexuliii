@@ -172,7 +172,7 @@ $\color{#dbe1f3}{\textsf{What do I mean when "talking to me alone"?}}$<br>$\colo
 
 $\color{#F7ABCFFF}{\textsf{I tend to fixate on things pretty frequently,}}$<br>$\color{#F7ABCFFF}{\textsf{switching from media to media, and I enjoy it!}}$<br>$\color{#F7ABCFFF}{\textsf{If you could gather from my current theme,}}$<br>$\color{#F7ABCFFF}{\textsf{I am particularly fond of Metal Gear right now.}}$
 
-$\color{#98ace4}{\textsf{I'm usually off-tab on Safe Server 1, but}}$<br>$\color{#98ace4}{\textsf{am always open for recieving whispers and such!}}$<br>$\color{#98ace4}{\textsf{I'm also OLD... 18y, but banned on 18+..}}$<br>$\color{#98ace4}{\textsf{I don't interact with anyone below the age of}}$<br>$\color{#98ace4}{\textsf{16 (on purpose), and am working on getting}}$<br>$\color{#98ace4}{\textsf{unbanned COUGHS.. I can speak English, Swedish,}}$<br>$\color{#98ace4}{\textsf{French, and SOME Spanish, though}}$<br>$\color{#98ace4}{\textsf{English is my main language.}}$
+$\color{#98ace4}{\textsf{I'm usually off-tab on Safe Server 1, but}}$<br>$\color{#98ace4}{\textsf{am always open for recieving whispers and such!}}$<br>$\color{#98ace4}{\textsf{I'm also OLD... 19y, but banned on 18+..}}$<br>$\color{#98ace4}{\textsf{I don't interact with anyone below the age of}}$<br>$\color{#98ace4}{\textsf{16 (on purpose), and am working on getting}}$<br>$\color{#98ace4}{\textsf{unbanned COUGHS.. I can speak English, Swedish,}}$<br>$\color{#98ace4}{\textsf{French, and SOME Spanish, though}}$<br>$\color{#98ace4}{\textsf{English is my main language.}}$
 
 $\color{#dbe1f3}{\textsf{I'm also a very loud person.}}$<br>$\color{#dbe1f3}{\textsf{I like to spam in chat and mess around,}}$<br>$\color{#dbe1f3}{\textsf{but I only ever really talk to my close friends a lot.}}$
 
