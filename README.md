@@ -138,8 +138,8 @@ $\color{#F7ABCFFF}{\textsf{Copy this and put it on YOUR github to link back to m
    <details>
         <summary>$\color{#F7ABCFFF}{\textsf{Others!}}$</summary>
 
-None... yet... make buttons guys i want cool profiles on my page
-     
+<a href="https://github.com/novapilled"><img src="https://64.media.tumblr.com/f2a78578d0e3800d69c645b9cbf20d89/d77be598b25e3eca-98/s100x200/19f82cd6ee8f19a94804a2887ccfa645119420e4.gifv" title="novapilled"></a>
+
   </details>
               </th>
   </table>
