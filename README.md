@@ -139,7 +139,7 @@ $\color{#F7ABCFFF}{\textsf{Copy this and put it on YOUR github to link back to m
         <summary>$\color{#F7ABCFFF}{\textsf{Others!}}$</summary>
 
 <a href="https://github.com/novapilled"><img src="https://64.media.tumblr.com/f2a78578d0e3800d69c645b9cbf20d89/d77be598b25e3eca-98/s100x200/19f82cd6ee8f19a94804a2887ccfa645119420e4.gifv" title="novapilled"></a>
-
+<a href="https://github.com/pwppy"><img src="https://64.media.tumblr.com/3d06e89a06d2a6e083ad38affe497ca1/2d0a429cb9bc2113-65/s100x200/256e5ffa75fe2eaa38f4eadc1aca1f50399d8438.gifv" title="pwppy"></a>
   </details>
               </th>
   </table>
