@@ -1566,11 +1566,11 @@ Feel free to use any of these! Credit not required !
 <details>
 <summary>$\color{#F7ABCFFF}{\textsf{Awards}}$</summary>
 
-<a href="https://github.com/pt-awards"><img src="https://64.media.tumblr.com/1629c05dda75f8ffa4659bf4ebe0bc18/3d9333d307cadec6-90/s1280x1920/1c0f2d7e5a2714e29c95a8a9854a2cc8961b805c.pnj" width="200"></a>  $\color{#677dba}{\textsf{Featured on PT-Awards!}}$
+<a href="https://github.com/pt-awards"><img src="https://64.media.tumblr.com/1629c05dda75f8ffa4659bf4ebe0bc18/3d9333d307cadec6-90/s1280x1920/1c0f2d7e5a2714e29c95a8a9854a2cc8961b805c.pnj" width="200"></a> 
 
-ADD ME TO MORE THINGS PLEASE!!!<br>
-<br>THIS CANT BE MY ONLY AWARD!!!!<br> if you do lmk on my ata or something...
+<a href="https://github.com/pt-walk-of-fame"><img src="https://64.media.tumblr.com/5cb808eb1d4a0765797e545a92a98381/d92530f5c027717a-9d/s500x750/cca46893a438aacd91afe7bef656e42f1a2e19a0.jpg" width="150"></a>
 
+$\color{#677dba}{\textsf{Featured on PT-Awards and Pt-Walk-of-Fame!}}$
 
 </details>
 
