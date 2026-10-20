@@ -66,7 +66,7 @@ $\color{#F7ABCFFF}{\textsf{I hang out around docks, but usually afk!}}$<br>
   <br>
           <br>
 
-<img src="https://komarev.com/ghpvc/?username=vexuliii&color=98ace4&style=for-the-badge&label=Snakes+Eaten:" title="kill Huey kill Huey kill Huey kill Huey kill">
+<img src="https://komarev.com/ghpvc/?username=vexuliii&color=98ace4&style=for-the-badge&label=Snakes+Eaten00:" title="kill Huey kill Huey kill Huey kill Huey kill">
 
   <img align="center" src="https://drive.google.com/uc?id=1q9G13SM8K0DtDanhh4w5sisKqAlTvalu" alt="otasune love" height="80px" title="Look at them i wanna squash like bug">
 <a href="https://github.com/Vexuliii?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?&color=98ace4&label=Total%20Stars:&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Vexuliii" title="If you see 0 refresh the page..."></a>   
